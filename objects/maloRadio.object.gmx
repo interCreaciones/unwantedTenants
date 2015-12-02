@@ -56,7 +56,7 @@
         banderaColision=0;
         global.textoDialog[0]="Desconocido:Tu!!";
         global.textoDialog[1]="¿?:...Fuiste tu quien me mataste";
-        global.textoDialog[2]="Desconocido:Si, y me quedé con todo esto!!";
+        global.textoDialog[2]="Desconocido:Sí, y me quedé con todo esto!!";
         global.textoDialog[3]="Desconocido:Jahahahahahaha!!";    
    }
    

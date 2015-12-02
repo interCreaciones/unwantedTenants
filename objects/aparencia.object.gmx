@@ -54,9 +54,9 @@
     {
         banderaColision=0;
         global.textoDialog[0]="???:Ese cuadro...";
-        global.textoDialog[1]="???:...Ese recuerdo esa cara...";
-        global.textoDialog[2]="???:...creo..., Si la persona que hay retratada...";
-        global.textoDialog[3]="???:Soy yo, ¡Si ese es mi aspecto!";
+        global.textoDialog[1]="???:...esa cara...";
+        global.textoDialog[2]="???:...creo que la persona que hay retratada...";
+        global.textoDialog[3]="???:sí, soy yo, ¡ese es mi aspecto!";
         global.textoDialog[4]="???:¡¡¡CONSIGUES APARIENCIA!!!";
         
         

@@ -55,6 +55,7 @@
     <instance objName="malisimo" x="928" y="256" name="inst_7B99C9BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Prota_LV2_OBJ" x="576" y="512" name="inst_D94B997E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="maloradio3" x="640" y="384" name="inst_41CE671E" locked="0" code="" scaleX="8" scaleY="8" colour="4294967295" rotation="0"/>
+    <instance objName="FadeIn_OBJ" x="0" y="0" name="inst_3F6B1F89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

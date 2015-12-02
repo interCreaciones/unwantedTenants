@@ -83,8 +83,7 @@
     <object>objects\FadeIn_OBJ</object>
     <object>objects\GameOverTexto_OBJ</object>
     <object>objects\Gato_OBJ</object>
-    <object>objects\parallasBiblioteca</object>
-    <object>objects\parallasSalon</object>
+    <object>objects\Hijo_OBJ</object>
     <objects name="Inicio">
       <object>objects\SalirPartidaTexto_OBJ</object>
       <object>objects\EmpezarPartidaTexto_OBJ</object>
@@ -99,29 +98,31 @@
       <object>objects\IraBano_OBJ</object>
       <object>objects\iraDormitorio</object>
     </objects>
+    <object>objects\Madre</object>
+    <object>objects\malisimo</object>
+    <object>objects\maloRadio</object>
+    <object>objects\maloradio2</object>
+    <object>objects\maloradio3</object>
     <object>objects\Muro_OBJ</object>
+    <object>objects\NoPasaMujer_OBJ</object>
+    <object>objects\object38</object>
+    <object>objects\parallasBiblioteca</object>
+    <object>objects\parallasSalon</object>
     <object>objects\PowerUp_OBJ</object>
     <object>objects\Prota_LV1_OBJ</object>
     <object>objects\Prota_LV2_OBJ</object>
+    <object>objects\radioBebeLlorar</object>
+    <object>objects\radioHijoHuye</object>
     <objects name="Sotano">
       <object>objects\paralaxSotano_OBJ</object>
     </objects>
     <object>objects\Variables</object>
     <object>objects\Vida_OBJ</object>
-    <object>objects\Madre</object>
-    <object>objects\NoPasaMujer_OBJ</object>
-    <object>objects\radioBebeLlorar</object>
-    <object>objects\radioHijoHuye</object>
-    <object>objects\maloRadio</object>
-    <object>objects\maloradio2</object>
-    <object>objects\maloradio3</object>
     <object>objects\VolverSalon_OBJ</object>
-    <object>objects\Hijo_OBJ</object>
-    <object>objects\malisimo</object>
-    <object>objects\object38</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Inicio</room>
+    <room>rooms\GameOver</room>
     <room>rooms\Continuara</room>
     <room>rooms\Dormitorio</room>
     <room>rooms\Pasillo</room>
@@ -133,7 +134,6 @@
     <room>rooms\Biblioteca</room>
     <room>rooms\Salon2</room>
     <room>rooms\Creditos</room>
-    <room>rooms\GameOver</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

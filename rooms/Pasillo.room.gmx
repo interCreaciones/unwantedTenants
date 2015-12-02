@@ -63,6 +63,7 @@
     <instance objName="iraDormitorio" x="4480" y="512" name="inst_545DD0E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="iraDormitorio" x="4512" y="512" name="inst_CEEDE206" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="parallasSalon" x="416" y="0" name="inst_4E094B03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="FadeIn_OBJ" x="0" y="0" name="inst_C7CD6E6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

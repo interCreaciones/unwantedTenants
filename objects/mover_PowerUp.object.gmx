@@ -56,7 +56,7 @@
         banderaColision=0;
         global.textoDialog[0]="???: Ese del espejo soy yo...";
         global.textoDialog[1]="???:...han cambiado tanto las cosas...";
-        global.textoDialog[2]="???:...si no hubiese acabado todo asi ... Grrr";
+        global.textoDialog[2]="???:...si no hubiese acabado todo asi... Grrr";
         global.textoDialog[3]="???:...me siento como si...";
         global.textoDialog[4]="???:...como si pudiese mover el mundo";
         global.textoDialog[5]="???:¡¡¡CONSIGUES MOVER OBJETOS!!!";

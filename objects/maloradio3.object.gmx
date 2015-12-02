@@ -54,7 +54,7 @@
     {
         banderaColision=0;
         global.textoDialog[0]="Desconocido: Veo que no te rindes";
-        global.textoDialog[1]="Desconocido: Acabe una vez con tigo...";
+        global.textoDialog[1]="Desconocido: Acabe una vez contigo...";
         global.textoDialog[2]="Desconocido: ...y lo volvere hacer...";
         global.textoDialog[3]="Desconocido: Preparate para morir!!!";
     }

@@ -54,10 +54,10 @@
     {
         banderaColision=0;
         global.textoDialog[0]="???: Una botella de vino...";
-        global.textoDialog[1]="???:...la preferida de mi mujer...";
+        global.textoDialog[1]="???:...el preferido de mi mujer...";
         global.textoDialog[2]="???:...vino Malafollá Crianza ... ";
-        global.textoDialog[3]="???:...la echo tanto de menos...";
-        global.textoDialog[4]="???:...me dan ganas de gritar, Arghh!!";
+        global.textoDialog[3]="???:...la echo tanto de menos.";
+        global.textoDialog[4]="???: Me dan ganas de gritar, Arghh!!";
         global.textoDialog[5]="???:¡¡¡CONSIGUES GRITO!!!";
         
         

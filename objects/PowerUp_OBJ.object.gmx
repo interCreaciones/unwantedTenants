@@ -27,31 +27,31 @@
             <kind>1</kind>
             <string>//escribe el power up seleccionado
 
-draw_text(0,20,"Power up: ")
+draw_text(0,25,"Power up: ")
 
 if global.ninguno = 1
 {
-draw_text(120,20,"Ninguno")
+draw_text(135,25,"Ninguno")
 }
 
 if (global.grito == 1)
 {
-draw_text(120,20,"Grito")
+draw_text(135,25,"Grito")
 }
 
 if global.apariencia = 1
 {
-draw_text(120,20,"Apariencia")
+draw_text(135,25,"Apariencia")
 }
 
 if global.tacto = 1
 {
-draw_text(120,20,"Tacto")
+draw_text(135,25,"Tacto")
 }
 
 if global.bola = 1
 {
-draw_text(120,20,"Bola")
+draw_text(135,25,"Bola")
 }
 </string>
           </argument>
