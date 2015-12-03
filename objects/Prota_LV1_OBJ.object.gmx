@@ -8,6 +8,39 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
+    <event eventtype="0" enumb="0">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>
+if(room==Salon)
+{
+    if(global.roomcamefrom==Biblioteca)
+    {
+        show_debug_message(global.roomcamefrom);
+        x=1050;
+        y=480;
+    }
+    
+}
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
     <event eventtype="4" ename="Muro_OBJ">
       <action>
         <libid>1</libid>
@@ -51,13 +84,9 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(image_xscale&lt;1.20)
-{
-    
-    image_xscale+=0.008
-    image_yscale+=0.008
-}
-y+=4;  
+            <string>y+=4;
+image_xscale=y/600
+image_yscale=y/600 
 </string>
           </argument>
         </arguments>
@@ -106,12 +135,9 @@ y+=4;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(image_xscale&gt;0.80)
-{
-    image_xscale-=0.008
-    image_yscale-=0.008
-}
-y-=4; 
+            <string>y-=4;
+image_xscale=y/600
+image_yscale=y/600
 
 
 

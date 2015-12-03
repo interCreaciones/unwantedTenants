@@ -137,12 +137,8 @@ else
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(image_xscale&lt;1.20)
-{
-    show_debug_message(image_xscale);
-    image_xscale+=0.008
-    image_yscale+=0.008
-}
+            <string>image_xscale=y/600
+image_yscale=y/600
 y+=4;  
 </string>
           </argument>
@@ -192,11 +188,8 @@ y+=4;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(image_xscale&gt;0.80)
-{
-    image_xscale-=0.008
-    image_yscale-=0.008
-}
+            <string>image_xscale=y/600
+image_yscale=y/600
 y-=4; 
 
 

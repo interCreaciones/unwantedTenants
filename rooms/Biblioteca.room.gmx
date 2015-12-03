@@ -326,6 +326,13 @@
     <instance objName="parallasBiblioteca" x="0" y="640" name="inst_F5E4FCC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="parallasBiblioteca" x="-32" y="32" name="inst_DCB00368" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="FadeIn_OBJ" x="0" y="0" name="inst_6EB65ED5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="IraSalon_OBJ" x="320" y="480" name="inst_DC1DA4DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="IraSalon_OBJ" x="352" y="480" name="inst_4710A451" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="IraSalon_OBJ" x="352" y="448" name="inst_E9AEA649" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="IraSalon_OBJ" x="384" y="448" name="inst_C2BBAF91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="IraSalon_OBJ" x="416" y="448" name="inst_64227662" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="IraSalon_OBJ" x="384" y="480" name="inst_A6E857D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="IraSalon_OBJ" x="320" y="448" name="inst_2FAEFD8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

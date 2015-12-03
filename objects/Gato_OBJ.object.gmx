@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>path_start(Gato1_sotano_PATH,15,2,0)
+            <string>path_start(Gato1_sotano_PATH,12,2,0)
 image_speed = 0.5;
 banderaColision=1;
 </string>
@@ -116,6 +116,8 @@ else
 {
      banderaColision=1
 }
+image_xscale=y/600
+image_yscale=y/600
 </string>
           </argument>
         </arguments>

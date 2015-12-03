@@ -51,6 +51,7 @@ room_goto(Salon2);
           <argument>
             <kind>1</kind>
             <string>room_goto(Salon)
+global.roomcamefrom=room;
 
 
 </string>
